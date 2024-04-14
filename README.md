@@ -8,7 +8,7 @@ The Minimax algorithm is a decision-making algorithm used in game theory to find
 
 How to Play-
 1. Clone or download this repository to your local machine.
-2. Open the index.html file in your web browser.
+2. Open the tictactoe.html file in your web browser.
 3. Select X or O.
 4. Click on any empty square to place your mark.
 5. The AI opponent will automatically make its move using the Minimax algorithm.
