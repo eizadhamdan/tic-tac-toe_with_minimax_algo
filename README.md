@@ -1,4 +1,4 @@
------Tic Tac Toe with Minimax Algorithm-----
+**-----Tic Tac Toe with Minimax Algorithm-----**
 
 This repository contains a simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript, enhanced with the Minimax algorithm for AI-based gameplay.
 
@@ -7,10 +7,9 @@ The Minimax algorithm is a decision-making algorithm used in game theory to find
 
 
 How to Play-
-
-Clone or download this repository to your local machine.
-Open the index.html file in your web browser.
-Select X or O.
-Click on any empty square to place your mark.
-The AI opponent will automatically make its move using the Minimax algorithm.
-Continue playing until there's a winner or the game ends in a draw.
+1. Clone or download this repository to your local machine.
+2. Open the index.html file in your web browser.
+3. Select X or O.
+4. Click on any empty square to place your mark.
+5. The AI opponent will automatically make its move using the Minimax algorithm.
+6. Continue playing until there's a winner or the game ends in a draw.
