@@ -1,4 +1,4 @@
-#-----Tic Tac Toe with Minimax Algorithm-----
+# -----Tic Tac Toe with Minimax Algorithm-----
 
 This repository contains a simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript, enhanced with the Minimax algorithm for AI-based gameplay.
 
